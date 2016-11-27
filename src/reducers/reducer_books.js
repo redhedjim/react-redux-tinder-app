@@ -5,4 +5,4 @@ export default function() {
     { title: 'Eloquent Javascript' },
     { title: 'The Girl with the Dragon Tattoo' },
   ]
-}
+};
